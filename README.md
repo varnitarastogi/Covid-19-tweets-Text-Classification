@@ -1,6 +1,6 @@
 # Covid-19-tweets-text-Classification
-
 Covid 19 is a highly contagious disease caused by a virus known as SARS-CoV-2. The task of this project is to build a model for Text Classification task based on sentiments from Twitter data about Covid19. The dataset used contains 4 attributes, one of them being the sentiment associated with the tweets.The final model with the best performance for this multiclass classification task is Bidirectional LSTM with dense layers with a test accuracy of 80%. The model summary is as follows-
+
  Layer (type)                Output Shape              Param #   
 =================================================================
  embedding (Embedding)       (None, 200, 200)          9763400   
