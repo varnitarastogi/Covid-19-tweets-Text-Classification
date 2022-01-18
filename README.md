@@ -32,6 +32,7 @@ Covid 19 is a highly contagious disease caused by a virus known as SARS-CoV-2. T
 - Bidirectional LSTM
 ## Vizualising results
 Accuracy: 0.8001579778830964
+
               precision    recall  f1-score   support
 
     Negative       0.83      0.79      0.81      1633
